@@ -43,7 +43,7 @@ Basic reproducible pipeline
 
 0. Import package
     ```python
-    from utils import rna_analysis as
+    from utils import rna_analysis as analysis
     ```
 
 1. Initalize the `rna_dataset` object by calling the raw data
