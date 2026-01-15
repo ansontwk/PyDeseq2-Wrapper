@@ -35,7 +35,7 @@ Reference
 2. Place your scripts in this repo
 
 # Usage
-This wrapper script extends the functionality of the Pydeseq2 objects by unifiying the `DeseqDataSet` and `DeseqStats` objects under a single `rna_dataset` object. 
+This wrapper script extends the functionality of the Pydeseq2 objects by unifying the `DeseqDataSet` and `DeseqStats` objects under a single `rna_dataset` object. 
 
 
 
